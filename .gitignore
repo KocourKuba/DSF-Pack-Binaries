@@ -1,0 +1,5 @@
+/src/.vs/*
+/src/Release
+/src/Debug
+/src/*.user
+/bin/w32/*.pdb
